@@ -8,16 +8,16 @@ A very simple plugin to generate a robots.txt file automatically for [Hexo 3](ht
 ### Install
 
 ```
-npm install hexo--robotstxt-multisitemaps --save
+npm install hexo-robotstxt-multisitemaps --save
 ```
 
 ### Enable
 
-Add `hexo-generator-robotstxt` to `plugins` in `_config.yml`.
+Add `hexo-robotstxt-multisitemaps` to `plugins` in `_config.yml`.
 
 ``` yaml
 plugins:
-- hexo-generator-robotstxt
+- hexo-robotstxt-multisitemaps
 ```
 
 Add config for `robots.txt` to `_config.yml`.
