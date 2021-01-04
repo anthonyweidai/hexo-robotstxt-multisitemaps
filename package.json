@@ -1,34 +1,19 @@
 {
   "name": "hexo-robotstxt-multisitemaps",
-  "author": "Lee Crossley <leee@hotmail.co.uk> (http://ilee.co.uk/)",
-  "description": "Basic robots.txt generator plugin for Hexo",
-  "homepage": "http://ilee.co.uk",
-  "version": "0.2.0",
+  "version": "1.0.0",
+  "description": "Fork from leecrossley / hexo-generator-robotstxt",
   "main": "index.js",
-  "keywords": [
-    "hexo",
-    "robots",
-    "robotstxt"
-  ],
-  "contributors": [
-    "Lee Crossley <leee@hotmail.co.uk>",
-    "Oliver Tönse <oliver.toense@getima.net>",
-    "Daniel Weiß <yoda@webjedi.de>"
-	"Anthony Dave <davidietop@163.com>"
-  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Davidietop/hexo-robotstxt-multisitemaps.git"
   },
-  "engines": {
-    "hexo": ">= 3.0.x",
-    "node": ">= 0.8.x"
-  },
+  "author": "Anthony Dave",
+  "license": "ISC",
   "bugs": {
     "url": "https://github.com/Davidietop/hexo-robotstxt-multisitemaps/issues"
   },
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "license": "ISC"
+  "homepage": "https://github.com/Davidietop/hexo-robotstxt-multisitemaps#readme"
 }
