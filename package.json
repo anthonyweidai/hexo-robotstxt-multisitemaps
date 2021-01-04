@@ -1,0 +1,35 @@
+{
+  "name": "hexo-generator-robotstxt",
+  "author": "Lee Crossley <leee@hotmail.co.uk> (http://ilee.co.uk/)",
+  "description": "Basic robots.txt generator plugin for Hexo",
+  "homepage": "http://ilee.co.uk",
+  "version": "0.2.0",
+  "main": "index.js",
+  "keywords": [
+    "hexo",
+    "robots",
+    "robotstxt"
+  ],
+  "contributors": [
+    {
+      "name": "Lee Crossley",
+      "email": "leee@hotmail.co.uk"
+    },
+    {
+      "name": "Oliver Tönse",
+      "email": "oliver.toense@getima.net"
+  },
+    {
+      "name": "Daniel Weiß",
+      "email": "yoda@webjedi.de"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/leecrossley/hexo-generator-robotstxt"
+  },
+  "engines": {
+    "hexo": ">= 3.0.x",
+    "node": ">= 0.8.x"
+  }
+}
