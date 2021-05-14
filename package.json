@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Davidietop/hexo-robotstxt-multisitemaps.git"
+    "url": "git+https://github.com/anthonyweidai/hexo-robotstxt-multisitemaps.git"
   },
   "author": "Anthony Dave",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Davidietop/hexo-robotstxt-multisitemaps/issues"
+    "url": "https://github.com/anthonyweidai/hexo-robotstxt-multisitemaps/issues"
   },
-  "homepage": "https://github.com/Davidietop/hexo-robotstxt-multisitemaps#readme"
+  "homepage": "https://github.com/anthonyweidai/hexo-robotstxt-multisitemaps#readme"
 }
