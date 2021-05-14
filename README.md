@@ -46,6 +46,8 @@ robotstxt:
 | allow     | Allow files or folders for this User-Agent    |         |
 | sitemap   | Set the path to your sitemap                  |         |
 
+## Example
+[How to auto generate sitemap and robots.txt for your web page powered by hexo](https://anthonydave.top/HTML/how-to-auto-generate-sitemap-and-robots-for-your-web-page-powered-by-hexo/)
 ## License
 
 [MIT License](http://ilee.mit-license.org)
