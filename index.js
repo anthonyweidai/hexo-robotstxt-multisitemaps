@@ -18,8 +18,19 @@ hexo.extend.generator.register('robotstxt', function(locals){
 			}
 
 			if( cfg.sitemap ) {
-				cfg.sitemap.forEach(function(entry) {
-				    body += "Sitemap: " + entry + "\n";
+				cfg.sitemap.forEach(function (entry) {
+					let sitemap = "Sitemap: ";
+					if (entry.startsWith("http")) {
+						sitemap += entry + "\n";
+					} else {
+						const slash =
+							hexo.config.url.endsWith("/") ||
+							entry.startsWith("/")
+								? ""
+								: "/";
+						sitemap += hexo.config.url + slash + entry + "\n";
+					}
+					body += sitemap;
 				});
 			}
 
