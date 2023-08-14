@@ -1,6 +1,6 @@
 {
   "name": "hexo-robotstxt-multisitemaps",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Fork from leecrossley / hexo-generator-robotstxt",
   "main": "index.js",
   "scripts": {
