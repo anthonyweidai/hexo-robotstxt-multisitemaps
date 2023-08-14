@@ -1,4 +1,4 @@
-# hexo--robotstxt-multisitemaps
+# hexo-robotstxt-multisitemaps
 Fork from leecrossley / hexo-generator-robotstxt
 
 A very simple plugin to generate a robots.txt file automatically for [Hexo 3](https://npmjs.org/package/hexo).
